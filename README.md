@@ -1,4 +1,4 @@
-# ele101-2.06.2026
+# Ele101-2.06.2026
 Ben Fatih\
 Tahir elektronikmiş\
 LAMALAR\
